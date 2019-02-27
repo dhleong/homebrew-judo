@@ -1,8 +1,8 @@
 class Judo < Formula
   desc "A more elegant way to play in the MUD"
   homepage "https://github.com/dhleong/judo"
-  url "https://github.com/dhleong/judo/releases/download/1.10.1/judo-1.10.1.jar"
-  sha256 "6bea7b82ad4fd62217dc78a71fc2514ce09a92ad1f5a95074de39cbf681d0ab9"
+  url "https://github.com/dhleong/judo/releases/download/1.11.0/judo-1.11.0.jar"
+  sha256 "2f21ffb329c68eb700699335013a8a8115e9f512edf50ab2542cd7d4c15199fd"
 
   bottle :unneeded
 
